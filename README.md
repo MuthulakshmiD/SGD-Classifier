@@ -66,10 +66,8 @@ y_pred=sc.predict(x_test)
 print(accuracy_score(y_pred,y_test))
 print(confusion_matrix(y_pred,y_test))
 ```
-![image](https://github.com/user-attachments/assets/11e2d027-22fe-4ea9-869c-945d45b77d84)
+![image](https://github.com/user-attachments/assets/6e714680-0953-487d-926a-af39239329a2)
 
-## Output:
-![prediction of iris species using SGD Classifier](sam.png)
 
 
 ## Result:
